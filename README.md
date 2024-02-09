@@ -18,5 +18,5 @@ I enjoy utilizing software to gain valuable insights and discover patterns from 
 - <b>IMDB Movie Data Analysis (Python, Jupyter Notebooks)</b>
   - https://github.com/JCReyes22/Data-Analysis-Projects/blob/main/IMDB%20Movies%20Analysis.ipynb
 - <b>NFL Player Stats Web Scraping with BeautifulSoup<b>
-  -https://github.com/JCReyes22/Data-Analysis-Projects/blob/main/NflStats2023.py
+  - https://github.com/JCReyes22/Data-Analysis-Projects/blob/main/NflStats2023.py
  
